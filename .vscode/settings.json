@@ -1,0 +1,7 @@
+{
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "git.postCommitCommand": "push",
+    "liveServer.settings.port": 5501
+}
